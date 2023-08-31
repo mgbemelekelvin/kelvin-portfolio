@@ -89,7 +89,7 @@
                                 </div>
                                 <div class="contact-info-content">
                                     <h5>Call Me</h5>
-                                    <a href="tel:+2349060698110">+2349060698110</a>
+                                    <a href="tel:+12265037799">+1(226)-503-7799</a>
                                 </div>
                             </div>
                             <div class="contact-info">

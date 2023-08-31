@@ -70,7 +70,7 @@
                             </div>
                             <div class="widget new-portfolio">
                                 <h4>Need A Brand New Project?</h4>
-                                <a href="tel:+2349060698110" class="new-portfolio-btn">Contact Me Now <i class="far fa-arrow-right"></i></a>
+                                <a href="tel:+12265037799" class="new-portfolio-btn">Contact Me Now <i class="far fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>

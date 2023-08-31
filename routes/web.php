@@ -24,7 +24,7 @@ Route::get('portfolios/{portfolio}', [\App\Http\Controllers\HomeController::clas
 Route::get('contact', [\App\Http\Controllers\HomeController::class, 'contact'])->name('contact');
 Route::post('contact', [\App\Http\Controllers\HomeController::class, 'contact_us_post'])->name('contactPost');
 Route::get('404', [\App\Http\Controllers\HomeController::class, 'PageNotFound'])->name('PageNotFound');
-
+//other routes
 //admin
 Route::get('login', [\App\Http\Controllers\LoginController::class, 'login'])->name('login');
 Route::post('login', [\App\Http\Controllers\LoginController::class, 'loginPost'])->name('loginPost');

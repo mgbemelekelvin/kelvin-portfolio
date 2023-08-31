@@ -22,7 +22,7 @@
                             <img src="{{ asset('assets/img/icon/phone.svg') }}" alt="">
                         </div>
                         <div class="footer-contact-content">
-                            <a href="tel:+2349060698110">
+                            <a href="tel:+12265037799">
                                 <p>Call Me</p>
                                 <h2>Give me a call now</h2>
                             </a>

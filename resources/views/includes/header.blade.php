@@ -20,7 +20,7 @@
                     </ul>
                     <div class="header-nav-right">
                         <div class="header-btn">
-                            <a href="tel:+2349060698110" class="theme-btn mt-2">Hire Me <i class="far fa-arrow-right"></i></a>
+                            <a href="tel:+12265037799" class="theme-btn mt-2">Hire Me <i class="far fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
