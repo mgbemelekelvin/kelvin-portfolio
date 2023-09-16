@@ -41,7 +41,7 @@
                             </div>
                             <div class="widget service-download">
                                 <h4 class="widget-title">Resume</h4>
-                                <a href="https://drive.google.com/file/d/10dVdKyyZkfVEnxKGlRofn_nglfilryyL/view?usp=sharing"><i class="far fa-file-pdf"></i> Download mu CV (pdf)</a>
+                                <a href="{{ env('CV') }}"><i class="far fa-file-pdf"></i> Download mu CV (pdf)</a>
                             </div>
                         </div>
                     </div>

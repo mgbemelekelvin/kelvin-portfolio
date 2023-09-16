@@ -26,7 +26,7 @@
                                 (software) design, development, deployment, database, project management and software product marketing.
                             </p>
                             <div class="hero-btn wow animate__animated animate__fadeInUp" data-wow-duration="1s" data-wow-delay="1s">
-                                <a href="https://drive.google.com/file/d/10dVdKyyZkfVEnxKGlRofn_nglfilryyL/view?usp=sharing" class="theme-btn">Download Resume<i class="far fa-download"></i></a>
+                                <a href="{{ env('CV') }}" class="theme-btn">Download Resume<i class="far fa-download"></i></a>
                                 <div class="footer-social text-xl-end">
                                     <a href="https://www.linkedin.com/in/kelvin-mgbemele/"><i class="fab fa-linkedin"></i></a>
                                     <a href="https://github.com/mgbemelekelvin" target="_blank"><i class="fab fa-github"></i></a>
