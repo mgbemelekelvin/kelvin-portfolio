@@ -80,7 +80,7 @@ class PortfolioController extends Controller
         $portfolio->technologies = $request->technologies;
         $portfolio->client = $request->client;
         if ($request->hasFile('image1')){
-            $portfolio->image1 = UploadService::upload($request->image1, false, false, 'assets/img/service');
+            $portfolio->image1 = UploadService::upload($request->image1, false, false, 'assets/img/portfolio');
         }
         $portfolio->save();
 

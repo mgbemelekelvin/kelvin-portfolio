@@ -31,14 +31,15 @@
                 <div class="filter-controls">
                     <ul class="filter-btns">
                         <li class="active" data-filter="*">All</li>
-                        <li data-filter=".Ecommerce">Ecommerce</li>
-                        <li data-filter=".FinTechs">FinTechs</li>
-                        <li data-filter=".Applications_Portals">Applications / Portals</li>
-                        <li data-filter=".Payments">Payments</li>
-                        <li data-filter=".Websites">Websites</li>
-                        <li data-filter=".Laravel">Laravel</li>
-                        <li data-filter=".NodeJs">NodeJs</li>
-                        <li data-filter=".Others">Others</li>
+                        <li data-filter=".Ecommerce" style="font-size: 14px !important;">Ecommerce</li>
+                        <li data-filter=".FinTechs" style="font-size: 14px !important;">FinTechs</li>
+                        <li data-filter=".Applications_Portals" style="font-size: 14px !important;">Applications / Portals</li>
+                        <li data-filter=".Payments" style="font-size: 14px !important;">Payments</li>
+                        <li data-filter=".Websites" style="font-size: 14px !important;">Websites</li>
+                        <li data-filter=".Laravel" style="font-size: 14px !important;">Laravel</li>
+                        <li data-filter=".NodeJs" style="font-size: 14px !important;">NodeJs</li>
+                        <li data-filter=".Spring-boot" style="font-size: 14px !important;">Spring-boot</li>
+                        <li data-filter=".Others" style="font-size: 14px !important;">Others</li>
                     </ul>
                 </div>
             </div>
