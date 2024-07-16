@@ -49,3 +49,7 @@ Route::patch('testimonies/{testimony_id}', [\App\Http\Controllers\TestimonyContr
 Route::delete('testimonies/{testimony_id}', [\App\Http\Controllers\TestimonyController::class, 'destroy'])->name('testimoniesDelete');
 
 Route::get('feedback', [\App\Http\Controllers\AdminController::class, 'feedbacks'])->name('feedback');
+
+
+
+Route::get('test', [\App\Http\Controllers\HomeController::class, 'birthOrder'])->name('test');
